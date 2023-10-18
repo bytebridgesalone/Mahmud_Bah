@@ -1,0 +1,40 @@
+body{
+
+
+  background:black;
+  color:goldenrod;
+  text-align:center;
+  margin:50px;
+  
+}
+p{
+font-size:30px;
+/*margin:25px;*/
+
+}
+/*h1{
+
+   background:black;
+	color:gostwhite;
+}*/
+
+input{
+color:purple;
+padding-right:10px;
+text-align: center;
+font-size: 16px;
+border-radius:15px;
+font-weight:bold;
+border-width:5px;
+border-color: green;
+
+}
+button{
+
+background: goldenrod;
+font-size: 18px;
+border-radius: 15px;
+font-weight:bold;
+padding:10px;
+
+}
